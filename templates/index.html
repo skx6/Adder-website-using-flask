@@ -1,0 +1,16 @@
+<head>
+	<title>Calculator</title>
+</head>
+<body>
+	<div align="center" style="margin-top: 40px">
+		<img src="{{url_for('static', filename='add.png')}}">
+	</div>
+	<div align="center" style="margin-top: 60px">
+		<form name="form1", method="POST">
+			<input type="text" placeholder="adder1" name="adder1" value={{adder1}}>
+			<input type="text" placeholder="adder2" name="adder2" value={{adder2}}>
+			<input type="text" placeholder="result" name="result" value={{result}}>
+			<input type="submit" value="add">
+		</form>
+	</div>
+</body>
