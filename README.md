@@ -11,3 +11,5 @@ $ python index.py
 
 After that, everybody in local area network can connect to the server by the server's IP.
 http://XXX.XXX.XXX.XXX:8080/
+
+Citaion: http://m.php.cn/code/24385.html for reference.
