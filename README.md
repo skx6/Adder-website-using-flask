@@ -2,7 +2,7 @@
 This is an adder website tool for getting started with flask.
 
 The adder website is shown downside.
-![image](https://github.com/SongKaixiang/Adder-website-using-flask/demo.gif)
+![image](https://github.com/SongKaixiang/Adder-website-using-flask/demo/demo.gif)
 
 The <flask> python package for the server is needed in this repository, you can install the package by pip or conda.
   
